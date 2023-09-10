@@ -1,0 +1,65 @@
+.contact-main-cont{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.contact-img{
+    margin-top: 30px;
+    width: 300px;
+
+}
+.contact-logo{
+    height: 300px;
+}
+.contact-info{
+    margin-top:5px ;
+}
+.input-box{
+    height: 30px;
+    width: 300px;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:#f0f0f0;
+}
+.form-div{
+border: 1px solid gray;
+height: 420px;
+width: 350px;
+padding: 20px;
+box-shadow: 1px 1px 2px 1px gray;
+border-radius: 5px;
+
+}
+.message-box{
+    height: 50px;
+}
+.github-logo{
+    height: 50px;
+    }
+    .github-logo:hover{
+        cursor: pointer;
+    }
+    .peerlist-logo{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+    }
+    .peerlist-logo{
+        cursor: pointer;
+    }
+    .contact-logo-cont{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .submit-button{
+        text-align: center;
+        margin-top: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 30px;
+        
+    }
